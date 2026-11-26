@@ -13,11 +13,9 @@
 
 | 项目 | 简介 | 技术栈 |
 |---|---|---|
-| [agent-nav](https://github.com/robeshell/agent-nav) | AI 编程 Agent 文档导航 | HTML · JavaScript |
-| [llm-model-comparison](https://github.com/robeshell/llm-model-comparison) | 大模型价格与榜单 | TypeScript |
-| [coati](https://github.com/robeshell/coati) | 自托管大模型网关 | TypeScript |
-| [ai-cost-helper](https://github.com/robeshell/ai-cost-helper) | AI 价格美元换算脚本 | Tampermonkey |
-| [ui-craft](https://github.com/robeshell/ui-craft) | 编程 Agent 的 UI 设计 Skill | Agent Skill |
+| [coati](https://github.com/robeshell/coati) | 自托管企业级大模型网关 | TypeScript |
+| [agent-nav](https://github.com/robeshell/agent-nav) | AI 编程 Agent 文档导航（每日更新） | HTML · JavaScript |
+| [llm-model-comparison](https://github.com/robeshell/llm-model-comparison) | 大模型梯队榜与价格（每日更新） | TypeScript |
 
 #### 🛠️ 其他开源
 
@@ -27,5 +25,7 @@
 | [aether-themes](https://github.com/robeshell/aether-themes) | 个人站点 CSS 主题 | CSS · Astro |
 | [tinode-harmony](https://github.com/robeshell/tinode-harmony) | 鸿蒙 Tinode IM SDK | ArkTS |
 | [compose-image-editor](https://github.com/robeshell/compose-image-editor) | 安卓图片编辑器 | Kotlin · Compose |
+| [ai-cost-helper](https://github.com/robeshell/ai-cost-helper) | 网页美元价格换算脚本 | Tampermonkey |
+| [ui-craft](https://github.com/robeshell/ui-craft) | 编程 Agent 的 UI 设计 Skill | Agent Skill |
 
-🌐 在线站点：[AI 编程 Agent 导航](https://agents.wenworks.dev) · [大模型价格与榜单](https://robeshell.github.io/llm-model-comparison/) · [博客](https://robeshell.github.io)
+🌐 在线站点：[AI 编程 Agent 导航](https://agents.wenworks.dev) · [大模型梯队榜](https://robeshell.github.io/llm-model-comparison/) · [博客](https://robeshell.github.io)
