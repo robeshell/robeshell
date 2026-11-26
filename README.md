@@ -15,7 +15,7 @@
 |---|---|---|
 | [coati](https://github.com/robeshell/coati) | 自托管企业级大模型网关 | TypeScript |
 | [wenworks-ai-agents](https://github.com/robeshell/wenworks-ai-agents) | AI 编程 Agent 文档导航（每日更新） | HTML · JavaScript |
-| [llm-model-comparison](https://github.com/robeshell/llm-model-comparison) | 大模型梯队榜与价格（每日更新） | TypeScript |
+| [wenworks-ai-models](https://github.com/robeshell/wenworks-ai-models) | 大模型梯队榜、选型与价格（每日更新） | TypeScript |
 
 #### 🛠️ 其他开源
 
@@ -28,4 +28,4 @@
 | [ai-cost-helper](https://github.com/robeshell/ai-cost-helper) | 网页美元价格换算脚本 | Tampermonkey |
 | [ui-craft](https://github.com/robeshell/ui-craft) | 编程 Agent 的 UI 设计 Skill | Agent Skill |
 
-🌐 在线站点：[AI 编程 Agent 导航](https://agents.wenworks.dev) · [大模型梯队榜](https://robeshell.github.io/llm-model-comparison/) · [博客](https://robeshell.github.io)
+🌐 在线站点：[Wenworks AI · 模型](https://models.wenworks.dev) · [Wenworks AI · Agent 导航](https://agents.wenworks.dev) · [博客](https://robeshell.github.io)
