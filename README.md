@@ -14,7 +14,7 @@
 | 项目 | 简介 | 技术栈 |
 |---|---|---|
 | [coati](https://github.com/robeshell/coati) | 自托管企业级大模型网关 | TypeScript |
-| [agent-nav](https://github.com/robeshell/agent-nav) | AI 编程 Agent 文档导航（每日更新） | HTML · JavaScript |
+| [wenworks-ai-agents](https://github.com/robeshell/wenworks-ai-agents) | AI 编程 Agent 文档导航（每日更新） | HTML · JavaScript |
 | [llm-model-comparison](https://github.com/robeshell/llm-model-comparison) | 大模型梯队榜与价格（每日更新） | TypeScript |
 
 #### 🛠️ 其他开源
